@@ -1,0 +1,62 @@
+[
+    {
+        "question":"HTML uses ",
+        "options": {
+            "a":"User defined tags",
+            "b":"Pre-specified tags",
+            "c":"Fixed tags defined by the language",
+            "d":"Tags only for linking"
+        },
+        "answer":"c"
+    },
+    {
+        "question":"Which is the correct CSS syntax?",
+        "options": {
+            "a":"body {color: black}",
+            "b":"{body;color:black}",
+            "c":"{body:color=black(body}",
+            "d":"body:color=black"
+        },
+        "answer":""
+    },
+    {
+        "question":"The basic difference between JavaScript and Java is",
+        "options": {
+            "a":"There is no difference",
+            "b":"Functions are considered as fields",
+            "c":"Variables are specific",
+            "d":"Functions are values, and there is no hard distinction between methods and fields"
+        },
+        "answer":"d"
+    },
+    {
+        "question":"Which of the following tag can be used to associate a caption together with some embedded content in HTML5?",
+        "options": {
+            "a":"footer",
+            "b":"nav",
+            "c":"dialog",
+            "d":"figure"
+        },
+        "answer":"d"
+    },
+    {
+        "question":"The property of JSON() method is:",
+        "options": {
+            "a":"it can be invoked manually as object.JSON()",
+            "b":"it will be automatically invoked by the compiler",
+            "c":"it is invoked automatically by the JSON.stringify() method",
+            "d":"it cannot be invoked in any form"
+        },
+        "answer":"c"
+    },
+    {
+        "question":"The method that can be used to create new properties and also to modify the attributes of existing properties is",
+        "options": {
+            "a":"Object.defineProperty()",
+            "b":"Object.defineProperties()",
+            "c":"Both Object.defineProperty() and Object.defineProperties()",
+            "d":"None of the mentioned"
+        },
+        "answer":"c"
+    }
+]
